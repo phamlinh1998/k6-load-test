@@ -1,0 +1,1425 @@
+{
+  "highlights": [
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/3468.png",
+        "team_id": 3468,
+        "team_name": "Real Madrid",
+        "short_code": "RMA",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/83.png",
+        "team_id": 83,
+        "team_name": "FC Barcelona",
+        "short_code": "FCB",
+        "national_team": false
+      },
+      "startAt": 1665929700000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 564,
+        "countryId": 32,
+        "name": "La Liga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/564.png",
+        "sort": 4
+      },
+      "fixtureId": 18545173,
+      "status": "NOT_START",
+      "stadium": "Estadio Santiago Bernabéu",
+      "channelId": null,
+      "betOdds": {
+        "id": 3849,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "4976d861",
+            "label": "Real Madrid",
+            "value": "2.25",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "dcf5a02d",
+            "label": "Draw",
+            "value": "3.60",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "eb5dfa19",
+            "label": "FC Barcelona",
+            "value": "3.10",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/8.png",
+        "team_id": 8,
+        "team_name": "Liverpool",
+        "short_code": "LIV",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/9.png",
+        "team_id": 9,
+        "team_name": "Manchester City",
+        "short_code": "MCI",
+        "national_team": false
+      },
+      "startAt": 1665934200000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 8,
+        "countryId": 462,
+        "name": "Premier League",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/8/8.png",
+        "sort": 10
+      },
+      "fixtureId": 18535116,
+      "status": "NOT_START",
+      "stadium": "Anfield",
+      "channelId": null,
+      "betOdds": {
+        "id": 3861,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "88c5d4cc",
+            "label": "Liverpool",
+            "value": "4.00",
+            "suspend": false,
+            "index": 0,
+            "state": "SELECTED"
+          },
+          {
+            "id": "7f522d3e",
+            "label": "Draw",
+            "value": "4.20",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "895a73c3",
+            "label": "Manchester City",
+            "value": "1.80",
+            "suspend": false,
+            "index": 2,
+            "state": "SELECTED"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/8/8.png",
+        "team_id": 8,
+        "team_name": "Liverpool",
+        "short_code": "LIV",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/1/1.png",
+        "team_id": 1,
+        "team_name": "West Ham United",
+        "short_code": "WHU",
+        "national_team": false
+      },
+      "startAt": 1666204200000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 8,
+        "countryId": 462,
+        "name": "Premier League",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/8/8.png",
+        "sort": 10
+      },
+      "fixtureId": 18535279,
+      "status": "NOT_START",
+      "stadium": "Anfield",
+      "channelId": null,
+      "betOdds": {
+        "id": 3945,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "726db4a9",
+            "label": "Liverpool",
+            "value": "1.44",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "55eb61d6",
+            "label": "Draw",
+            "value": "4.50",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "b7f84233",
+            "label": "West Ham United",
+            "value": "7.00",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/1099.png",
+        "team_id": 1099,
+        "team_name": "Elche",
+        "short_code": "ELC",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/3468.png",
+        "team_id": 3468,
+        "team_name": "Real Madrid",
+        "short_code": "RMA",
+        "national_team": false
+      },
+      "startAt": 1666206000000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 564,
+        "countryId": 32,
+        "name": "La Liga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/564.png",
+        "sort": 4
+      },
+      "fixtureId": 18545181,
+      "status": "NOT_START",
+      "stadium": "Estadio Manuel Martínez Valero",
+      "channelId": null,
+      "betOdds": {
+        "id": 3949,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "41f4823a",
+            "label": "Elche",
+            "value": "8.50",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "70f92b7a",
+            "label": "Draw",
+            "value": "5.25",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "db5cef57",
+            "label": "Real Madrid",
+            "value": "1.33",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/83.png",
+        "team_id": 83,
+        "team_name": "FC Barcelona",
+        "short_code": "FCB",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/21/3477.png",
+        "team_id": 3477,
+        "team_name": "Villarreal",
+        "short_code": "VIL",
+        "national_team": false
+      },
+      "startAt": 1666292400000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 564,
+        "countryId": 32,
+        "name": "La Liga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/564.png",
+        "sort": 4
+      },
+      "fixtureId": 18545180,
+      "status": "NOT_START",
+      "stadium": "Spotify Camp Nou",
+      "channelId": null,
+      "betOdds": {
+        "id": 3969,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "d35a6939",
+            "label": "FC Barcelona",
+            "value": "1.45",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "2b2d4670",
+            "label": "Draw",
+            "value": "4.50",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "ff27beb3",
+            "label": "Villarreal",
+            "value": "6.00",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/3/67.png",
+        "team_id": 67,
+        "team_name": "Schalke 04",
+        "short_code": "S04",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/6/2726.png",
+        "team_id": 2726,
+        "team_name": "TSG Hoffenheim",
+        "short_code": "TSG",
+        "national_team": false
+      },
+      "startAt": 1665772200000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 82,
+        "countryId": 11,
+        "name": "Bundesliga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/82.png",
+        "sort": 15
+      },
+      "fixtureId": 18536743,
+      "status": "NOT_START",
+      "stadium": "VELTINS-Arena",
+      "channelId": null,
+      "betOdds": {
+        "id": 3705,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "95203d57",
+            "label": "Schalke 04",
+            "value": "3.30",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "8310309f",
+            "label": "Draw",
+            "value": "3.80",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "351c2361",
+            "label": "TSG Hoffenheim",
+            "value": "2.00",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/377.png",
+        "team_id": 377,
+        "team_name": "Rayo Vallecano",
+        "short_code": "RAY",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/106.png",
+        "team_id": 106,
+        "team_name": "Getafe",
+        "short_code": "GET",
+        "national_team": false
+      },
+      "startAt": 1665774000000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 564,
+        "countryId": 32,
+        "name": "La Liga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/564.png",
+        "sort": 4
+      },
+      "fixtureId": 18545175,
+      "status": "NOT_START",
+      "stadium": "Estadio de Vallecas",
+      "channelId": null,
+      "betOdds": {
+        "id": 3709,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "d4dc2422",
+            "label": "Rayo Vallecano",
+            "value": "1.95",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "33457441",
+            "label": "Draw",
+            "value": "3.25",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "8c2cf928",
+            "label": "Getafe",
+            "value": "4.50",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/686.png",
+        "team_id": 686,
+        "team_name": "Strasbourg",
+        "short_code": "STR",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/690.png",
+        "team_id": 690,
+        "team_name": "Lille",
+        "short_code": "LIL",
+        "national_team": false
+      },
+      "startAt": 1665774000000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 301,
+        "countryId": 17,
+        "name": "Ligue 1",
+        "logo": "https://cdn.sportmonks.com/images//soccer/leagues/13/301.png",
+        "sort": 12
+      },
+      "fixtureId": 18538120,
+      "status": "NOT_START",
+      "stadium": "Stade de la Meinau",
+      "channelId": null,
+      "betOdds": {
+        "id": 3713,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "cb4a4fcd",
+            "label": "Strasbourg",
+            "value": "2.80",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "949ca64a",
+            "label": "Draw",
+            "value": "3.30",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "fb98913f",
+            "label": "Lille",
+            "value": "2.55",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/12/236.png",
+        "team_id": 236,
+        "team_name": "Brentford",
+        "short_code": "BRE",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/78.png",
+        "team_id": 78,
+        "team_name": "Brighton & Hove Albion",
+        "short_code": "BRH",
+        "national_team": false
+      },
+      "startAt": 1665774000000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 8,
+        "countryId": 462,
+        "name": "Premier League",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/8/8.png",
+        "sort": 10
+      },
+      "fixtureId": 18535112,
+      "status": "NOT_START",
+      "stadium": "Brentford Community Stadium",
+      "channelId": null,
+      "betOdds": {
+        "id": 3717,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "8c149872",
+            "label": "Brentford",
+            "value": "3.10",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "59d15083",
+            "label": "Draw",
+            "value": "3.40",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "4177f9c1",
+            "label": "Brighton & Hove Albion",
+            "value": "2.30",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/10/42.png",
+        "team_id": 42,
+        "team_name": "Leicester City",
+        "short_code": "LEI",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/19/51.png",
+        "team_id": 51,
+        "team_name": "Crystal Palace",
+        "short_code": "CRY",
+        "national_team": false
+      },
+      "startAt": 1665833400000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 8,
+        "countryId": 462,
+        "name": "Premier League",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/8/8.png",
+        "sort": 10
+      },
+      "fixtureId": 18535115,
+      "status": "NOT_START",
+      "stadium": "King Power Stadium",
+      "channelId": null,
+      "betOdds": {
+        "id": 3721,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "eab4ec7a",
+            "label": "Leicester City",
+            "value": "2.30",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "4dc4f7aa",
+            "label": "Draw",
+            "value": "3.40",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "9d9fa233",
+            "label": "Crystal Palace",
+            "value": "3.10",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/231.png",
+        "team_id": 231,
+        "team_name": "Girona",
+        "short_code": "GIR",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/6827.png",
+        "team_id": 6827,
+        "team_name": "Cádiz",
+        "short_code": "CAD",
+        "national_team": false
+      },
+      "startAt": 1665835200000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 564,
+        "countryId": 32,
+        "name": "La Liga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/564.png",
+        "sort": 4
+      },
+      "fixtureId": 18545176,
+      "status": "NOT_START",
+      "stadium": "Estadi Municipal de Montilivi",
+      "channelId": null,
+      "betOdds": {
+        "id": 3725,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "b6c0f4d3",
+            "label": "Girona",
+            "value": "1.85",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "9e3c48be",
+            "label": "Draw",
+            "value": "3.30",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "c8ecf862",
+            "label": "Cádiz",
+            "value": "4.75",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/13/397.png",
+        "team_id": 397,
+        "team_name": "Empoli",
+        "short_code": "EMP",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/28/1628.png",
+        "team_id": 1628,
+        "team_name": "Monza",
+        "short_code": "MON",
+        "national_team": false
+      },
+      "startAt": 1665838800000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 384,
+        "countryId": 251,
+        "name": "Serie A",
+        "logo": "https://cdn.sportmonks.com/images//soccer/leagues/0/384.png",
+        "sort": 14
+      },
+      "fixtureId": 18546235,
+      "status": "NOT_START",
+      "stadium": "Stadio Carlo Castellani",
+      "channelId": null,
+      "betOdds": {
+        "id": 3729,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "69a03ac5",
+            "label": "Empoli",
+            "value": "2.55",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "c6361aed",
+            "label": "Draw",
+            "value": "3.30",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "fcb30448",
+            "label": "Monza",
+            "value": "2.80",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/14/366.png",
+        "team_id": 366,
+        "team_name": "Eintracht Frankfurt",
+        "short_code": "SGE",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/25/3321.png",
+        "team_id": 3321,
+        "team_name": "Bayer 04 Leverkusen",
+        "short_code": "B04",
+        "national_team": false
+      },
+      "startAt": 1665840600000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 82,
+        "countryId": 11,
+        "name": "Bundesliga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/82.png",
+        "sort": 15
+      },
+      "fixtureId": 18536740,
+      "status": "NOT_START",
+      "stadium": "Deutsche Bank Park (Frankfurt am Main)",
+      "channelId": null,
+      "betOdds": {
+        "id": 3733,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "d2cd2153",
+            "label": "Eintracht Frankfurt",
+            "value": "2.70",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "a32fb216",
+            "label": "Draw",
+            "value": "3.60",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "37ddc42c",
+            "label": "Bayer 04 Leverkusen",
+            "value": "2.50",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/30/510.png",
+        "team_id": 510,
+        "team_name": "VfL Wolfsburg",
+        "short_code": "WOB",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/683.png",
+        "team_id": 683,
+        "team_name": "Borussia Mönchengladbach",
+        "short_code": "BMG",
+        "national_team": false
+      },
+      "startAt": 1665840600000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 82,
+        "countryId": 11,
+        "name": "Bundesliga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/82.png",
+        "sort": 15
+      },
+      "fixtureId": 18536741,
+      "status": "NOT_START",
+      "stadium": "VOLKSWAGEN ARENA",
+      "channelId": null,
+      "betOdds": {
+        "id": 3737,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "66231a8f",
+            "label": "VfL Wolfsburg",
+            "value": "2.63",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "4f6ca73d",
+            "label": "Draw",
+            "value": "3.50",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "83cda1ba",
+            "label": "Borussia Mönchengladbach",
+            "value": "2.60",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/23/3319.png",
+        "team_id": 3319,
+        "team_name": "VfB Stuttgart",
+        "short_code": "STU",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/7/999.png",
+        "team_id": 999,
+        "team_name": "VfL Bochum 1848",
+        "short_code": "BOC",
+        "national_team": false
+      },
+      "startAt": 1665840600000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 82,
+        "countryId": 11,
+        "name": "Bundesliga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/82.png",
+        "sort": 15
+      },
+      "fixtureId": 18536742,
+      "status": "NOT_START",
+      "stadium": "Mercedes-Benz-Arena",
+      "channelId": null,
+      "betOdds": {
+        "id": 3741,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "99dbb8af",
+            "label": "VfB Stuttgart",
+            "value": "1.65",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "ac22159f",
+            "label": "Draw",
+            "value": "4.00",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "8c199c12",
+            "label": "VfL Bochum 1848",
+            "value": "5.25",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/18/82.png",
+        "team_id": 82,
+        "team_name": "Werder Bremen",
+        "short_code": "SVW",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/26/794.png",
+        "team_id": 794,
+        "team_name": "FSV Mainz 05",
+        "short_code": "MAI",
+        "national_team": false
+      },
+      "startAt": 1665840600000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 82,
+        "countryId": 11,
+        "name": "Bundesliga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/82.png",
+        "sort": 15
+      },
+      "fixtureId": 18536744,
+      "status": "NOT_START",
+      "stadium": "wohninvest WESERSTADION (Bremen)",
+      "channelId": null,
+      "betOdds": {
+        "id": 3745,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "f2452b9b",
+            "label": "Werder Bremen",
+            "value": "2.38",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "63783f3c",
+            "label": "Draw",
+            "value": "3.60",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "128847be",
+            "label": "FSV Mainz 05",
+            "value": "2.88",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/11.png",
+        "team_id": 11,
+        "team_name": "Fulham",
+        "short_code": "FUL",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/20/52.png",
+        "team_id": 52,
+        "team_name": "AFC Bournemouth",
+        "short_code": "BOU",
+        "national_team": false
+      },
+      "startAt": 1665842400000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 8,
+        "countryId": 462,
+        "name": "Premier League",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/8/8.png",
+        "sort": 10
+      },
+      "fixtureId": 18535113,
+      "status": "NOT_START",
+      "stadium": "Craven Cottage",
+      "channelId": null,
+      "betOdds": {
+        "id": 3749,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "ae8c7803",
+            "label": "Fulham",
+            "value": "1.83",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "9d9f8505",
+            "label": "Draw",
+            "value": "3.75",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "a8a89e7c",
+            "label": "AFC Bournemouth",
+            "value": "4.20",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/29/29.png",
+        "team_id": 29,
+        "team_name": "Wolverhampton Wanderers",
+        "short_code": "WLV",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/31/63.png",
+        "team_id": 63,
+        "team_name": "Nottingham Forest",
+        "short_code": "NTG",
+        "national_team": false
+      },
+      "startAt": 1665842400000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 8,
+        "countryId": 462,
+        "name": "Premier League",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/8/8.png",
+        "sort": 10
+      },
+      "fixtureId": 18535120,
+      "status": "NOT_START",
+      "stadium": "Molineux Stadium",
+      "channelId": null,
+      "betOdds": {
+        "id": 3753,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "66f0cfbb",
+            "label": "Wolverhampton Wanderers",
+            "value": "1.70",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "afa0d390",
+            "label": "Draw",
+            "value": "3.75",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "5afca2bc",
+            "label": "Nottingham Forest",
+            "value": "5.25",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/22/214.png",
+        "team_id": 214,
+        "team_name": "Valencia",
+        "short_code": "VAL",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/11/1099.png",
+        "team_id": 1099,
+        "team_name": "Elche",
+        "short_code": "ELC",
+        "national_team": false
+      },
+      "startAt": 1665843300000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 564,
+        "countryId": 32,
+        "name": "La Liga",
+        "logo": "https://cdn.sportmonks.com/images/soccer/leagues/564.png",
+        "sort": 4
+      },
+      "fixtureId": 18545174,
+      "status": "NOT_START",
+      "stadium": "Estadio de Mestalla",
+      "channelId": null,
+      "betOdds": {
+        "id": 3757,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "1328a942",
+            "label": "Valencia",
+            "value": "1.40",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "1f72b91f",
+            "label": "Draw",
+            "value": "4.75",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "e8892ef6",
+            "label": "Elche",
+            "value": "8.00",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    },
+    {
+      "score": {
+        "homeTeamScore": 0,
+        "awayTeamScore": 0,
+        "ftScore": null,
+        "etScore": null,
+        "htScore": null,
+        "psScore": null
+      },
+      "homeTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/9/9257.png",
+        "team_id": 9257,
+        "team_name": "Lorient",
+        "short_code": "FCL",
+        "national_team": false
+      },
+      "awayTeam": {
+        "logo": "https://cdn.sportmonks.com/images/soccer/teams/4/1028.png",
+        "team_id": 1028,
+        "team_name": "Reims",
+        "short_code": "SDR",
+        "national_team": false
+      },
+      "startAt": 1665846000000,
+      "time": "0",
+      "isHot": false,
+      "league": {
+        "id": 301,
+        "countryId": 17,
+        "name": "Ligue 1",
+        "logo": "https://cdn.sportmonks.com/images//soccer/leagues/13/301.png",
+        "sort": 12
+      },
+      "fixtureId": 18538116,
+      "status": "NOT_START",
+      "stadium": "Stade Yves Allainmat - Le Moustoir",
+      "channelId": null,
+      "betOdds": {
+        "id": 3761,
+        "labelType": "Match Winner",
+        "visible": true,
+        "type": "FB_MATCH_WINNER",
+        "status": "ACTIVE",
+        "odds": [
+          {
+            "id": "7a46b82e",
+            "label": "Lorient",
+            "value": "2.25",
+            "suspend": false,
+            "index": 0,
+            "state": "NONE"
+          },
+          {
+            "id": "1d75b79e",
+            "label": "Draw",
+            "value": "3.40",
+            "suspend": false,
+            "index": 1,
+            "state": "NONE"
+          },
+          {
+            "id": "1b7cc633",
+            "label": "Reims",
+            "value": "3.25",
+            "suspend": false,
+            "index": 2,
+            "state": "NONE"
+          }
+        ]
+      }
+    }
+  ]
+}
+
