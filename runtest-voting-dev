@@ -1,0 +1,1 @@
+k6 run -e BASE_URL=dev.api.wiinvent.tv -e TENANT=14 ./es5/voting.js
